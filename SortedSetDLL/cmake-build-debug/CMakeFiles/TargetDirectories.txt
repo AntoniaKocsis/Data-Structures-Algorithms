@@ -1,0 +1,3 @@
+C:/Users/jozsef/CLionProjects/SortedSetDLL/cmake-build-debug/CMakeFiles/SortedSetDLL.dir
+C:/Users/jozsef/CLionProjects/SortedSetDLL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jozsef/CLionProjects/SortedSetDLL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
