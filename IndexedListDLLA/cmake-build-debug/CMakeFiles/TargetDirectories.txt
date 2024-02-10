@@ -1,0 +1,3 @@
+C:/Users/jozsef/CLionProjects/IndexedListDLLA/cmake-build-debug/CMakeFiles/IndexedListDLLA.dir
+C:/Users/jozsef/CLionProjects/IndexedListDLLA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jozsef/CLionProjects/IndexedListDLLA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
